@@ -1,2 +1,2 @@
 # SolarSytem_Map
-Simple example SolarSystem map from scrimba.com challange "Space Challenge Week(June 2022)"
+Simple example SolarSystem map from scrimba.com challenge "Space Challenge Week(June 2022)"
